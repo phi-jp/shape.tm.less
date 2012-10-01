@@ -1,6 +1,6 @@
 # shape.tm.less
 
-less でサクッと図形を描画するライブラリ
+LESS でサクッと図形を描画するライブラリ
 
 ## Sample
 
