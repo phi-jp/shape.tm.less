@@ -2,7 +2,7 @@
 
 LESS でサクッと図形を描画するライブラリ
 
-![screenshot](screenshot.png)
+![screenshot](https://raw.github.com/phi1618/shape.tm.less/master/screenshot.png)
 
 ## Sample
 
